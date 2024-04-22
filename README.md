@@ -1,12 +1,13 @@
-# [React Twotter Clone](https://www.youtube.com/watch?v=y2Kxmvaew90)
+# [React Twitter Clone](https://www.youtube.com/watch?v=y2Kxmvaew90)
 This project is made to practice and strengthen my ReactJS skills. Its a complete fullstack MERN project.
 
 
 ## Preview of Page
 ![Preview1](./public/Preview.png)
 
-## New Techstack used
-* [Chakra Ui](https://chakra-ui.com/)
+## Techstack used
+* Tailwind CSS
+* ReactIcon pack
 
 ## New Things Learnt
 * Modal Creation
