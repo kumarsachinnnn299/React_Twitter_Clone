@@ -7,10 +7,6 @@ This project is made to practice and strengthen my ReactJS skills. Its a complet
 
 ## Techstack used
 * Tailwind CSS
-* ReactIcon pack
+* React Icon pack
+* React Avatar
 
-## New Things Learnt
-* Modal Creation
-* Using Portal facilty to manage modal
-* React Toastify
-* [Yup schema builder](https://www.npmjs.com/package/yup)

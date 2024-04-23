@@ -2,7 +2,7 @@ import React from 'react'
 
 const RightSideBar = () => {
   return (
-    <div>
+    <div className='w-[20%]'>
       RSB
     </div>
   )
