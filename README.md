@@ -9,4 +9,6 @@ This project is made to practice and strengthen my ReactJS skills. Its a complet
 * Tailwind CSS
 * React Icon pack
 * React Avatar
+* React Router DOM
+* Outlet (To conditionally render children of any component) Time: 1:27:00
 
